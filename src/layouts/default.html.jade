@@ -1,0 +1,28 @@
+- var styles = getBlock('styles')
+- var scripts = getBlock('scripts')
+- scripts.add(["/scripts/moment.js"])
+- if (document.isArticle && document.status === "draft") scripts.add(["/scripts/article.js"]) 
+- else scripts.add(["/scripts/index.js"]) 
+- styles.add(["/styles/style.css"])
+
+doctype 5
+html(lang="en")
+    head
+        meta(charset="utf-8")
+        meta(http-equiv="content-type", content="text/html; charset=utf-8")
+        title= getPreparedTitle()   
+        != getBlock('meta').toHTML()
+        != styles.toHTML()
+    - var claz = document.isPage ? "index" : ""
+    body(class=claz)
+        if document.isArticle
+            div.stoptape
+                div
+                    span(class='updated',data-updated=document.mtime,data-status=document.status)= (document.status === 'draft' ? 'This is a draft! ' : '') + 'It was updated on ' + formatDate(document.mtime) + "."
+        div#main
+            h1= document.title
+            != content
+        if document.isArticle
+            != getDisqus()
+        != scripts.toHTML()
+     

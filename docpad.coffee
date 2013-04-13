@@ -1,4 +1,5 @@
-# Define the Configuration
+moment = require "moment"
+#Define the Configuration
 docpadConfig = {
     collections:
         pages: ->
@@ -11,12 +12,16 @@ docpadConfig = {
                     
     templateData:
         site:
-            title: "My Super Ideas!"
+            title: "Abstract Nonsense"
             url: "http://nikdudnik.com"
             author: "Nikita Dudnik"
             email: "nikdudnik@gmail.com"
+            services:
+                diqus: "abstractnonsense"
+                googleAnalytics: "UA-33499743-2"
 
         getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
+        formatDate: (d) -> moment(d).format('Do MMMM YYYY')
         
 }
 

@@ -1,11 +1,17 @@
 ---
 title: "Bacon.js"
-descr: "A short example of awesomness of this javacript library and FRP in general."
-more: "Read more to turn your spaghetti callback soup into the plate of sushi →"
+descr: "Problem solving for front-end developers using functional reactive programming."
+more: "Read more →"
 date: 2013-03-30
+layout: "article"
+status: "draft"
+isArticle: true
 ---
-
 I want to make a demo of Bacon.js which is by the way awesome. Why is it awesome? It makes some tasks solvable without too much thinking.
+
+``` javascript
+var clicks = $(".submit").asEventSource("click")
+```
 
 Let's say you have a REST API to create playlists (in json) and fill them with real audio tracks (in all kinds of audio formats).
 

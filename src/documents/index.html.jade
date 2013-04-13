@@ -1,0 +1,10 @@
+---
+isPage: true
+title: "Abstract Nonsense"
+---
+each page in getCollection("articles").toJSON()
+    h2= page.title + " "
+        span(class='updated',data-updated=page.mtime,data-status=page.status)= (page.status === 'draft' ? 'status: draft ' : '') + '/ updated: ' + formatDate(page.mtime)    
+    p= page.descr
+    a(href=page.url)= page.more
+

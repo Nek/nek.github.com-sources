@@ -1,0 +1,60 @@
+@import url("rainbow.css");
+@import "typography.less";
+
+/*  
+ *	Layout
+ */
+
+@base: #FFF;
+
+.index {}
+ 
+#main {
+	margin: 0 auto;
+	width: 85%;
+	max-width: @cpl-measure-opt;
+    color: #333;
+}
+
+pre.highlighted {
+    margin-left: 0;
+}
+
+h2 span {
+    display: inline-block;
+    font-size: 0.463em;
+    color: grey;
+}
+
+div.stoptape {
+    line-height: 5;
+    color: white;
+    border-bottom:1px solid #aaa;
+    background-color:#556;
+    background-image: 
+    linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
+    linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
+    linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
+    linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
+    linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), 
+    linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
+    background-size:80px 140px;
+    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+    div {
+      	margin: 0 auto;
+    	width: 85%;
+    	max-width: @cpl-measure-opt;
+        span {
+            color: white;
+        }
+    }
+}
+
+ 
+div.example { margin: @body-line-height-px 0; }
+
+.ex2-2-1i {
+  line-height: 3;
+  border-bottom:1px solid #ccc;
+  text-align: center;
+}

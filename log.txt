@@ -1,0 +1,1358 @@
+[1m[32mdebug:[39m Plugins loading for: /Users/Nek/Projects/nek.github.com-sources/node_modules[22m
+    → [2013-04-13 17:19:49.405] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: .bin[22m
+    → [2013-04-13 17:19:49.416] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: coffee[22m
+    → [2013-04-13 17:19:49.418] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: coffeekup[22m
+    → [2013-04-13 17:19:49.420] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: eco[22m
+    → [2013-04-13 17:19:49.421] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: haml[22m
+    → [2013-04-13 17:19:49.423] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: hamlcoffee[22m
+    → [2013-04-13 17:19:49.424] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: jade[22m
+    → [2013-04-13 17:19:49.426] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: robotskirt[22m
+    → [2013-04-13 17:19:49.427] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: sass[22m
+    → [2013-04-13 17:19:49.429] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading plugin: haml-coffee[22m
+    → [2013-04-13 17:19:49.430] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded plugin: eco[22m
+    → [2013-04-13 17:19:49.525] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded plugin: coffee[22m
+    → [2013-04-13 17:19:49.537] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded plugin: haml[22m
+    → [2013-04-13 17:19:49.541] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded plugin: coffeekup[22m
+    → [2013-04-13 17:19:49.549] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded plugin: jade[22m
+    → [2013-04-13 17:19:49.599] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded plugin: hamlcoffee[22m
+    → [2013-04-13 17:19:49.601] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded plugin: robotskirt[22m
+    → [2013-04-13 17:19:49.635] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded plugin: sass[22m
+    → [2013-04-13 17:19:49.750] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Plugins loaded for: /Users/Nek/Projects/nek.github.com-sources/node_modules[22m
+    → [2013-04-13 17:19:49.752] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Performed the action load[22m
+    → [2013-04-13 17:19:49.760] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Performing the action ready[22m
+    → [2013-04-13 17:19:49.763] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32minfo:[39m Welcome to DocPad v6.30.3[22m
+    → [2013-04-13 17:19:49.801] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32minfo:[39m Plugins: coffee vnull, coffeekup vnull, eco vnull, haml vnull, hamlcoffee vnull, jade vnull, robotskirt vnull, sass vnull[22m
+    → [2013-04-13 17:19:49.802] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32minfo:[39m Environment: development[22m
+    → [2013-04-13 17:19:49.803] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Performed the action ready[22m
+    → [2013-04-13 17:19:49.812] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Performing the action generate[22m
+    → [2013-04-13 17:19:49.815] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32minfo:[39m Generating...[22m
+    → [2013-04-13 17:19:49.820] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Parsing everything[22m
+    → [2013-04-13 17:19:50.261] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Parsing directory: /Users/Nek/Projects/nek.github.com-sources/src/documents[22m
+    → [2013-04-13 17:19:50.267] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Parsing directory: /Users/Nek/Projects/nek.github.com-sources/src/files[22m
+    → [2013-04-13 17:19:50.269] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Skipped directory: /Users/Nek/Projects/nek.github.com-sources/src/public (it does not exist)[22m
+    → [2013-04-13 17:19:50.271] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Parsing directory: /Users/Nek/Projects/nek.github.com-sources/src/layouts[22m
+    → [2013-04-13 17:19:50.273] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Parsed directory: /Users/Nek/Projects/nek.github.com-sources/src/layouts[22m
+    → [2013-04-13 17:19:50.283] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading 1 files[22m
+    → [2013-04-13 17:19:50.284] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: default.html.hamlc[22m
+    → [2013-04-13 17:19:50.287] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:50.289] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Parsed directory: /Users/Nek/Projects/nek.github.com-sources/src/files[22m
+    → [2013-04-13 17:19:50.317] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading 0 files[22m
+    → [2013-04-13 17:19:50.319] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded 0 files[22m
+    → [2013-04-13 17:19:50.322] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:50.354] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: default.html.hamlc[22m
+    → [2013-04-13 17:19:50.360] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding layout: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:50.364] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded 1 files[22m
+    → [2013-04-13 17:19:50.373] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Parsed directory: /Users/Nek/Projects/nek.github.com-sources/src/documents[22m
+    → [2013-04-13 17:19:50.393] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading 72 files[22m
+    → [2013-04-13 17:19:50.397] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: atom.xml.eco[22m
+    → [2013-04-13 17:19:50.407] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/atom.xml.eco[22m
+    → [2013-04-13 17:19:50.408] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: index.html.eco[22m
+    → [2013-04-13 17:19:50.410] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/index.html.eco[22m
+    → [2013-04-13 17:19:50.411] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: site.rss.eco[22m
+    → [2013-04-13 17:19:50.413] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/site.rss.eco[22m
+    → [2013-04-13 17:19:50.414] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: articles/baconjs.html.md[22m
+    → [2013-04-13 17:19:50.416] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/articles/baconjs.html.md[22m
+    → [2013-04-13 17:19:50.417] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/reset.css.sass[22m
+    → [2013-04-13 17:19:50.418] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/reset.css.sass[22m
+    → [2013-04-13 17:19:50.419] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/style.css.sass[22m
+    → [2013-04-13 17:19:50.421] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/style.css.sass[22m
+    → [2013-04-13 17:19:50.422] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/_bourbon-deprecated-upcoming.scss[22m
+    → [2013-04-13 17:19:50.424] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon-deprecated-upcoming.scss[22m
+    → [2013-04-13 17:19:50.425] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/_bourbon.scss[22m
+    → [2013-04-13 17:19:50.426] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon.scss[22m
+    → [2013-04-13 17:19:50.427] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/_neat-helpers.scss[22m
+    → [2013-04-13 17:19:50.429] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat-helpers.scss[22m
+    → [2013-04-13 17:19:50.430] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/_neat.scss[22m
+    → [2013-04-13 17:19:50.432] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat.scss[22m
+    → [2013-04-13 17:19:50.433] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/typeplate/_typeplate.scss[22m
+    → [2013-04-13 17:19:50.435] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/typeplate/_typeplate.scss[22m
+    → [2013-04-13 17:19:50.436] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_button.scss[22m
+    → [2013-04-13 17:19:50.438] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_button.scss[22m
+    → [2013-04-13 17:19:50.439] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_clearfix.scss[22m
+    → [2013-04-13 17:19:50.441] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_clearfix.scss[22m
+    → [2013-04-13 17:19:50.442] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_font-family.scss[22m
+    → [2013-04-13 17:19:50.444] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_font-family.scss[22m
+    → [2013-04-13 17:19:50.445] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_hide-text.scss[22m
+    → [2013-04-13 17:19:50.447] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_hide-text.scss[22m
+    → [2013-04-13 17:19:50.448] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_html5-input-types.scss[22m
+    → [2013-04-13 17:19:50.449] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_html5-input-types.scss[22m
+    → [2013-04-13 17:19:50.450] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_position.scss[22m
+    → [2013-04-13 17:19:50.452] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_position.scss[22m
+    → [2013-04-13 17:19:50.453] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_prefixer.scss[22m
+    → [2013-04-13 17:19:50.454] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_prefixer.scss[22m
+    → [2013-04-13 17:19:50.456] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_retina-image.scss[22m
+    → [2013-04-13 17:19:50.458] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_retina-image.scss[22m
+    → [2013-04-13 17:19:50.459] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_size.scss[22m
+    → [2013-04-13 17:19:50.461] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_size.scss[22m
+    → [2013-04-13 17:19:50.462] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_timing-functions.scss[22m
+    → [2013-04-13 17:19:50.464] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_timing-functions.scss[22m
+    → [2013-04-13 17:19:50.465] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/addons/_triangle.scss[22m
+    → [2013-04-13 17:19:50.466] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_triangle.scss[22m
+    → [2013-04-13 17:19:50.467] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_animation.scss[22m
+    → [2013-04-13 17:19:50.469] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_animation.scss[22m
+    → [2013-04-13 17:19:50.470] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_appearance.scss[22m
+    → [2013-04-13 17:19:50.471] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_appearance.scss[22m
+    → [2013-04-13 17:19:50.472] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_background-image.scss[22m
+    → [2013-04-13 17:19:50.474] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-image.scss[22m
+    → [2013-04-13 17:19:50.475] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_background-size.scss[22m
+    → [2013-04-13 17:19:50.477] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-size.scss[22m
+    → [2013-04-13 17:19:50.477] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_background.scss[22m
+    → [2013-04-13 17:19:50.480] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background.scss[22m
+    → [2013-04-13 17:19:50.481] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_border-image.scss[22m
+    → [2013-04-13 17:19:50.483] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-image.scss[22m
+    → [2013-04-13 17:19:50.484] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_border-radius.scss[22m
+    → [2013-04-13 17:19:50.485] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-radius.scss[22m
+    → [2013-04-13 17:19:50.486] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_box-sizing.scss[22m
+    → [2013-04-13 17:19:50.488] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_box-sizing.scss[22m
+    → [2013-04-13 17:19:50.489] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_columns.scss[22m
+    → [2013-04-13 17:19:50.491] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_columns.scss[22m
+    → [2013-04-13 17:19:50.492] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_flex-box.scss[22m
+    → [2013-04-13 17:19:50.493] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_flex-box.scss[22m
+    → [2013-04-13 17:19:50.494] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_font-face.scss[22m
+    → [2013-04-13 17:19:50.496] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_font-face.scss[22m
+    → [2013-04-13 17:19:50.498] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_hidpi-media-query.scss[22m
+    → [2013-04-13 17:19:50.500] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_hidpi-media-query.scss[22m
+    → [2013-04-13 17:19:50.501] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_image-rendering.scss[22m
+    → [2013-04-13 17:19:50.503] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_image-rendering.scss[22m
+    → [2013-04-13 17:19:50.504] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_inline-block.scss[22m
+    → [2013-04-13 17:19:50.505] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_inline-block.scss[22m
+    → [2013-04-13 17:19:50.506] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_keyframes.scss[22m
+    → [2013-04-13 17:19:50.508] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_keyframes.scss[22m
+    → [2013-04-13 17:19:50.509] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:50.511] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:50.512] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_perspective.scss[22m
+    → [2013-04-13 17:19:50.514] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_perspective.scss[22m
+    → [2013-04-13 17:19:50.515] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_placeholder.scss[22m
+    → [2013-04-13 17:19:50.517] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_placeholder.scss[22m
+    → [2013-04-13 17:19:50.518] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:50.520] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:50.520] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_transform.scss[22m
+    → [2013-04-13 17:19:50.522] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_transform.scss[22m
+    → [2013-04-13 17:19:50.523] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_transition.scss[22m
+    → [2013-04-13 17:19:50.525] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_transition.scss[22m
+    → [2013-04-13 17:19:50.527] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/css3/_user-select.scss[22m
+    → [2013-04-13 17:19:50.531] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_user-select.scss[22m
+    → [2013-04-13 17:19:50.531] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_compact.scss[22m
+    → [2013-04-13 17:19:50.533] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_compact.scss[22m
+    → [2013-04-13 17:19:50.534] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_deprecated-webkit-gradient.scss[22m
+    → [2013-04-13 17:19:50.536] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_deprecated-webkit-gradient.scss[22m
+    → [2013-04-13 17:19:50.537] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_flex-grid.scss[22m
+    → [2013-04-13 17:19:50.538] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_flex-grid.scss[22m
+    → [2013-04-13 17:19:50.539] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_grid-width.scss[22m
+    → [2013-04-13 17:19:50.541] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_grid-width.scss[22m
+    → [2013-04-13 17:19:50.542] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:50.544] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:50.545] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_modular-scale.scss[22m
+    → [2013-04-13 17:19:50.547] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_modular-scale.scss[22m
+    → [2013-04-13 17:19:50.548] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:50.549] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:50.550] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:50.552] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:50.553] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_render-gradients.scss[22m
+    → [2013-04-13 17:19:50.555] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_render-gradients.scss[22m
+    → [2013-04-13 17:19:50.556] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_tint-shade.scss[22m
+    → [2013-04-13 17:19:50.558] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_tint-shade.scss[22m
+    → [2013-04-13 17:19:50.558] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/bourbon/functions/_transition-property-name.scss[22m
+    → [2013-04-13 17:19:50.560] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_transition-property-name.scss[22m
+    → [2013-04-13 17:19:50.561] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/functions/_new-breakpoint.scss[22m
+    → [2013-04-13 17:19:50.563] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_new-breakpoint.scss[22m
+    → [2013-04-13 17:19:50.564] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/functions/_private.scss[22m
+    → [2013-04-13 17:19:50.566] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_private.scss[22m
+    → [2013-04-13 17:19:50.567] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:50.568] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:50.569] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_fill-parent.scss[22m
+    → [2013-04-13 17:19:50.571] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_fill-parent.scss[22m
+    → [2013-04-13 17:19:50.572] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_global-variables.scss[22m
+    → [2013-04-13 17:19:50.574] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_global-variables.scss[22m
+    → [2013-04-13 17:19:50.575] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_grid.scss[22m
+    → [2013-04-13 17:19:50.576] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_grid.scss[22m
+    → [2013-04-13 17:19:50.577] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_media.scss[22m
+    → [2013-04-13 17:19:50.579] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_media.scss[22m
+    → [2013-04-13 17:19:50.580] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_omega.scss[22m
+    → [2013-04-13 17:19:50.582] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_omega.scss[22m
+    → [2013-04-13 17:19:50.582] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_outer-container.scss[22m
+    → [2013-04-13 17:19:50.584] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_outer-container.scss[22m
+    → [2013-04-13 17:19:50.585] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_pad.scss[22m
+    → [2013-04-13 17:19:50.587] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_pad.scss[22m
+    → [2013-04-13 17:19:50.588] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_row.scss[22m
+    → [2013-04-13 17:19:50.590] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_row.scss[22m
+    → [2013-04-13 17:19:50.590] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_shift.scss[22m
+    → [2013-04-13 17:19:50.592] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_shift.scss[22m
+    → [2013-04-13 17:19:50.593] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_span-columns.scss[22m
+    → [2013-04-13 17:19:50.595] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_span-columns.scss[22m
+    → [2013-04-13 17:19:50.596] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_to-deprecate.scss[22m
+    → [2013-04-13 17:19:50.598] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_to-deprecate.scss[22m
+    → [2013-04-13 17:19:50.599] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/grid/_visual-grid.scss[22m
+    → [2013-04-13 17:19:50.600] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_visual-grid.scss[22m
+    → [2013-04-13 17:19:50.601] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/settings/_grid.scss[22m
+    → [2013-04-13 17:19:50.603] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_grid.scss[22m
+    → [2013-04-13 17:19:50.604] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading file: styles/neat/settings/_visual-grid.scss[22m
+    → [2013-04-13 17:19:50.605] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loading the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_visual-grid.scss[22m
+    → [2013-04-13 17:19:50.617] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/atom.xml.eco[22m
+    → [2013-04-13 17:19:50.661] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: atom.xml.eco[22m
+    → [2013-04-13 17:19:50.665] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/atom.xml.eco[22m
+    → [2013-04-13 17:19:50.668] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/index.html.eco[22m
+    → [2013-04-13 17:19:50.674] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: index.html.eco[22m
+    → [2013-04-13 17:19:50.682] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/index.html.eco[22m
+    → [2013-04-13 17:19:50.685] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding html file: /Users/Nek/Projects/nek.github.com-sources/src/documents/index.html.eco[22m
+    → [2013-04-13 17:19:50.690] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/site.rss.eco[22m
+    → [2013-04-13 17:19:50.700] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: site.rss.eco[22m
+    → [2013-04-13 17:19:50.702] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/site.rss.eco[22m
+    → [2013-04-13 17:19:50.704] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/articles/baconjs.html.md[22m
+    → [2013-04-13 17:19:50.710] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: articles/baconjs.html.md[22m
+    → [2013-04-13 17:19:50.714] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/articles/baconjs.html.md[22m
+    → [2013-04-13 17:19:50.716] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding html file: /Users/Nek/Projects/nek.github.com-sources/src/documents/articles/baconjs.html.md[22m
+    → [2013-04-13 17:19:50.722] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/reset.css.sass[22m
+    → [2013-04-13 17:19:50.733] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/reset.css.sass[22m
+    → [2013-04-13 17:19:50.736] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/reset.css.sass[22m
+    → [2013-04-13 17:19:50.738] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/reset.css.sass[22m
+    → [2013-04-13 17:19:50.743] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/style.css.sass[22m
+    → [2013-04-13 17:19:50.754] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/style.css.sass[22m
+    → [2013-04-13 17:19:50.756] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/style.css.sass[22m
+    → [2013-04-13 17:19:50.758] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/style.css.sass[22m
+    → [2013-04-13 17:19:50.764] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon-deprecated-upcoming.scss[22m
+    → [2013-04-13 17:19:50.774] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/_bourbon-deprecated-upcoming.scss[22m
+    → [2013-04-13 17:19:50.777] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon-deprecated-upcoming.scss[22m
+    → [2013-04-13 17:19:50.779] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon-deprecated-upcoming.scss[22m
+    → [2013-04-13 17:19:50.784] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon.scss[22m
+    → [2013-04-13 17:19:50.794] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/_bourbon.scss[22m
+    → [2013-04-13 17:19:50.797] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon.scss[22m
+    → [2013-04-13 17:19:50.799] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon.scss[22m
+    → [2013-04-13 17:19:50.804] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat-helpers.scss[22m
+    → [2013-04-13 17:19:50.814] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/_neat-helpers.scss[22m
+    → [2013-04-13 17:19:50.817] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat-helpers.scss[22m
+    → [2013-04-13 17:19:50.819] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat-helpers.scss[22m
+    → [2013-04-13 17:19:50.824] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat.scss[22m
+    → [2013-04-13 17:19:50.834] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/_neat.scss[22m
+    → [2013-04-13 17:19:50.837] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat.scss[22m
+    → [2013-04-13 17:19:50.839] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat.scss[22m
+    → [2013-04-13 17:19:50.846] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/typeplate/_typeplate.scss[22m
+    → [2013-04-13 17:19:50.855] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/typeplate/_typeplate.scss[22m
+    → [2013-04-13 17:19:50.858] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/typeplate/_typeplate.scss[22m
+    → [2013-04-13 17:19:50.860] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/typeplate/_typeplate.scss[22m
+    → [2013-04-13 17:19:50.865] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_button.scss[22m
+    → [2013-04-13 17:19:50.875] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_button.scss[22m
+    → [2013-04-13 17:19:50.878] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_button.scss[22m
+    → [2013-04-13 17:19:50.880] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_button.scss[22m
+    → [2013-04-13 17:19:50.886] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_clearfix.scss[22m
+    → [2013-04-13 17:19:50.897] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_clearfix.scss[22m
+    → [2013-04-13 17:19:50.900] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_clearfix.scss[22m
+    → [2013-04-13 17:19:50.902] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_clearfix.scss[22m
+    → [2013-04-13 17:19:50.907] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_font-family.scss[22m
+    → [2013-04-13 17:19:50.917] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_font-family.scss[22m
+    → [2013-04-13 17:19:50.920] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_font-family.scss[22m
+    → [2013-04-13 17:19:50.922] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_font-family.scss[22m
+    → [2013-04-13 17:19:50.928] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_hide-text.scss[22m
+    → [2013-04-13 17:19:50.939] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_hide-text.scss[22m
+    → [2013-04-13 17:19:50.943] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_hide-text.scss[22m
+    → [2013-04-13 17:19:50.946] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_hide-text.scss[22m
+    → [2013-04-13 17:19:50.952] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_html5-input-types.scss[22m
+    → [2013-04-13 17:19:50.963] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_html5-input-types.scss[22m
+    → [2013-04-13 17:19:50.966] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_html5-input-types.scss[22m
+    → [2013-04-13 17:19:50.968] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_html5-input-types.scss[22m
+    → [2013-04-13 17:19:50.974] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_position.scss[22m
+    → [2013-04-13 17:19:50.984] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_position.scss[22m
+    → [2013-04-13 17:19:50.986] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_position.scss[22m
+    → [2013-04-13 17:19:50.988] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_position.scss[22m
+    → [2013-04-13 17:19:50.994] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_prefixer.scss[22m
+    → [2013-04-13 17:19:51.004] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_prefixer.scss[22m
+    → [2013-04-13 17:19:51.007] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_prefixer.scss[22m
+    → [2013-04-13 17:19:51.009] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_prefixer.scss[22m
+    → [2013-04-13 17:19:51.015] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_retina-image.scss[22m
+    → [2013-04-13 17:19:51.025] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_retina-image.scss[22m
+    → [2013-04-13 17:19:51.027] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_retina-image.scss[22m
+    → [2013-04-13 17:19:51.029] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_retina-image.scss[22m
+    → [2013-04-13 17:19:51.035] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_size.scss[22m
+    → [2013-04-13 17:19:51.044] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_size.scss[22m
+    → [2013-04-13 17:19:51.047] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_size.scss[22m
+    → [2013-04-13 17:19:51.048] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_size.scss[22m
+    → [2013-04-13 17:19:51.054] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_timing-functions.scss[22m
+    → [2013-04-13 17:19:51.064] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_timing-functions.scss[22m
+    → [2013-04-13 17:19:51.067] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_timing-functions.scss[22m
+    → [2013-04-13 17:19:51.069] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_timing-functions.scss[22m
+    → [2013-04-13 17:19:51.075] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_triangle.scss[22m
+    → [2013-04-13 17:19:51.085] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/addons/_triangle.scss[22m
+    → [2013-04-13 17:19:51.088] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_triangle.scss[22m
+    → [2013-04-13 17:19:51.090] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_triangle.scss[22m
+    → [2013-04-13 17:19:51.095] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_animation.scss[22m
+    → [2013-04-13 17:19:51.104] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_animation.scss[22m
+    → [2013-04-13 17:19:51.109] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_animation.scss[22m
+    → [2013-04-13 17:19:51.112] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_animation.scss[22m
+    → [2013-04-13 17:19:51.117] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_appearance.scss[22m
+    → [2013-04-13 17:19:51.127] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_appearance.scss[22m
+    → [2013-04-13 17:19:51.129] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_appearance.scss[22m
+    → [2013-04-13 17:19:51.131] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_appearance.scss[22m
+    → [2013-04-13 17:19:51.137] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-image.scss[22m
+    → [2013-04-13 17:19:51.146] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_background-image.scss[22m
+    → [2013-04-13 17:19:51.150] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-image.scss[22m
+    → [2013-04-13 17:19:51.151] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-image.scss[22m
+    → [2013-04-13 17:19:51.157] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-size.scss[22m
+    → [2013-04-13 17:19:51.168] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_background-size.scss[22m
+    → [2013-04-13 17:19:51.170] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-size.scss[22m
+    → [2013-04-13 17:19:51.172] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-size.scss[22m
+    → [2013-04-13 17:19:51.178] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background.scss[22m
+    → [2013-04-13 17:19:51.187] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_background.scss[22m
+    → [2013-04-13 17:19:51.189] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background.scss[22m
+    → [2013-04-13 17:19:51.191] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background.scss[22m
+    → [2013-04-13 17:19:51.196] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-image.scss[22m
+    → [2013-04-13 17:19:51.206] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_border-image.scss[22m
+    → [2013-04-13 17:19:51.209] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-image.scss[22m
+    → [2013-04-13 17:19:51.211] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-image.scss[22m
+    → [2013-04-13 17:19:51.217] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-radius.scss[22m
+    → [2013-04-13 17:19:51.226] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_border-radius.scss[22m
+    → [2013-04-13 17:19:51.229] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-radius.scss[22m
+    → [2013-04-13 17:19:51.231] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-radius.scss[22m
+    → [2013-04-13 17:19:51.236] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_box-sizing.scss[22m
+    → [2013-04-13 17:19:51.245] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_box-sizing.scss[22m
+    → [2013-04-13 17:19:51.248] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_box-sizing.scss[22m
+    → [2013-04-13 17:19:51.250] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_box-sizing.scss[22m
+    → [2013-04-13 17:19:51.255] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_columns.scss[22m
+    → [2013-04-13 17:19:51.265] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_columns.scss[22m
+    → [2013-04-13 17:19:51.267] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_columns.scss[22m
+    → [2013-04-13 17:19:51.269] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_columns.scss[22m
+    → [2013-04-13 17:19:51.274] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_flex-box.scss[22m
+    → [2013-04-13 17:19:51.284] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_flex-box.scss[22m
+    → [2013-04-13 17:19:51.287] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_flex-box.scss[22m
+    → [2013-04-13 17:19:51.289] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_flex-box.scss[22m
+    → [2013-04-13 17:19:51.294] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_font-face.scss[22m
+    → [2013-04-13 17:19:51.304] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_font-face.scss[22m
+    → [2013-04-13 17:19:51.307] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_font-face.scss[22m
+    → [2013-04-13 17:19:51.309] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_font-face.scss[22m
+    → [2013-04-13 17:19:51.315] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_hidpi-media-query.scss[22m
+    → [2013-04-13 17:19:51.324] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_hidpi-media-query.scss[22m
+    → [2013-04-13 17:19:51.327] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_hidpi-media-query.scss[22m
+    → [2013-04-13 17:19:51.329] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_hidpi-media-query.scss[22m
+    → [2013-04-13 17:19:51.335] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_image-rendering.scss[22m
+    → [2013-04-13 17:19:51.344] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_image-rendering.scss[22m
+    → [2013-04-13 17:19:51.346] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_image-rendering.scss[22m
+    → [2013-04-13 17:19:51.349] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_image-rendering.scss[22m
+    → [2013-04-13 17:19:51.354] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_inline-block.scss[22m
+    → [2013-04-13 17:19:51.364] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_inline-block.scss[22m
+    → [2013-04-13 17:19:51.366] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_inline-block.scss[22m
+    → [2013-04-13 17:19:51.369] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_inline-block.scss[22m
+    → [2013-04-13 17:19:51.375] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_keyframes.scss[22m
+    → [2013-04-13 17:19:51.384] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_keyframes.scss[22m
+    → [2013-04-13 17:19:51.386] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_keyframes.scss[22m
+    → [2013-04-13 17:19:51.388] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_keyframes.scss[22m
+    → [2013-04-13 17:19:51.394] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:51.405] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:51.407] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:51.409] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:51.414] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_perspective.scss[22m
+    → [2013-04-13 17:19:51.424] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_perspective.scss[22m
+    → [2013-04-13 17:19:51.426] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_perspective.scss[22m
+    → [2013-04-13 17:19:51.428] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_perspective.scss[22m
+    → [2013-04-13 17:19:51.434] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_placeholder.scss[22m
+    → [2013-04-13 17:19:51.443] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_placeholder.scss[22m
+    → [2013-04-13 17:19:51.446] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_placeholder.scss[22m
+    → [2013-04-13 17:19:51.448] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_placeholder.scss[22m
+    → [2013-04-13 17:19:51.454] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:51.464] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:51.467] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:51.469] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:51.474] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_transform.scss[22m
+    → [2013-04-13 17:19:51.483] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_transform.scss[22m
+    → [2013-04-13 17:19:51.485] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_transform.scss[22m
+    → [2013-04-13 17:19:51.487] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_transform.scss[22m
+    → [2013-04-13 17:19:51.494] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_transition.scss[22m
+    → [2013-04-13 17:19:51.503] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_transition.scss[22m
+    → [2013-04-13 17:19:51.505] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_transition.scss[22m
+    → [2013-04-13 17:19:51.507] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_transition.scss[22m
+    → [2013-04-13 17:19:51.513] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_user-select.scss[22m
+    → [2013-04-13 17:19:51.522] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/css3/_user-select.scss[22m
+    → [2013-04-13 17:19:51.524] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_user-select.scss[22m
+    → [2013-04-13 17:19:51.526] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_user-select.scss[22m
+    → [2013-04-13 17:19:51.531] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_compact.scss[22m
+    → [2013-04-13 17:19:51.542] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_compact.scss[22m
+    → [2013-04-13 17:19:51.544] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_compact.scss[22m
+    → [2013-04-13 17:19:51.546] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_compact.scss[22m
+    → [2013-04-13 17:19:51.551] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_deprecated-webkit-gradient.scss[22m
+    → [2013-04-13 17:19:51.561] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_deprecated-webkit-gradient.scss[22m
+    → [2013-04-13 17:19:51.564] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_deprecated-webkit-gradient.scss[22m
+    → [2013-04-13 17:19:51.566] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_deprecated-webkit-gradient.scss[22m
+    → [2013-04-13 17:19:51.571] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_flex-grid.scss[22m
+    → [2013-04-13 17:19:51.582] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_flex-grid.scss[22m
+    → [2013-04-13 17:19:51.584] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_flex-grid.scss[22m
+    → [2013-04-13 17:19:51.586] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_flex-grid.scss[22m
+    → [2013-04-13 17:19:51.592] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_grid-width.scss[22m
+    → [2013-04-13 17:19:51.604] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_grid-width.scss[22m
+    → [2013-04-13 17:19:51.607] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_grid-width.scss[22m
+    → [2013-04-13 17:19:51.609] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_grid-width.scss[22m
+    → [2013-04-13 17:19:51.615] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:51.625] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:51.628] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:51.630] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:51.635] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_modular-scale.scss[22m
+    → [2013-04-13 17:19:51.645] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_modular-scale.scss[22m
+    → [2013-04-13 17:19:51.647] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_modular-scale.scss[22m
+    → [2013-04-13 17:19:51.649] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_modular-scale.scss[22m
+    → [2013-04-13 17:19:51.655] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:51.664] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:51.666] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:51.668] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:51.674] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:51.684] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:51.687] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:51.689] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:51.695] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_render-gradients.scss[22m
+    → [2013-04-13 17:19:51.704] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_render-gradients.scss[22m
+    → [2013-04-13 17:19:51.706] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_render-gradients.scss[22m
+    → [2013-04-13 17:19:51.709] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_render-gradients.scss[22m
+    → [2013-04-13 17:19:51.715] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_tint-shade.scss[22m
+    → [2013-04-13 17:19:51.724] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_tint-shade.scss[22m
+    → [2013-04-13 17:19:51.726] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_tint-shade.scss[22m
+    → [2013-04-13 17:19:51.728] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_tint-shade.scss[22m
+    → [2013-04-13 17:19:51.734] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_transition-property-name.scss[22m
+    → [2013-04-13 17:19:51.745] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/bourbon/functions/_transition-property-name.scss[22m
+    → [2013-04-13 17:19:51.748] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_transition-property-name.scss[22m
+    → [2013-04-13 17:19:51.750] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_transition-property-name.scss[22m
+    → [2013-04-13 17:19:51.756] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_new-breakpoint.scss[22m
+    → [2013-04-13 17:19:51.765] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/functions/_new-breakpoint.scss[22m
+    → [2013-04-13 17:19:51.767] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_new-breakpoint.scss[22m
+    → [2013-04-13 17:19:51.769] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_new-breakpoint.scss[22m
+    → [2013-04-13 17:19:51.775] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_private.scss[22m
+    → [2013-04-13 17:19:51.784] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/functions/_private.scss[22m
+    → [2013-04-13 17:19:51.787] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_private.scss[22m
+    → [2013-04-13 17:19:51.789] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_private.scss[22m
+    → [2013-04-13 17:19:51.794] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:51.804] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:51.807] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:51.809] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:51.814] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_fill-parent.scss[22m
+    → [2013-04-13 17:19:51.823] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_fill-parent.scss[22m
+    → [2013-04-13 17:19:51.826] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_fill-parent.scss[22m
+    → [2013-04-13 17:19:51.828] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_fill-parent.scss[22m
+    → [2013-04-13 17:19:51.833] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_global-variables.scss[22m
+    → [2013-04-13 17:19:51.843] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_global-variables.scss[22m
+    → [2013-04-13 17:19:51.845] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_global-variables.scss[22m
+    → [2013-04-13 17:19:51.847] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_global-variables.scss[22m
+    → [2013-04-13 17:19:51.852] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_grid.scss[22m
+    → [2013-04-13 17:19:51.862] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_grid.scss[22m
+    → [2013-04-13 17:19:51.864] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_grid.scss[22m
+    → [2013-04-13 17:19:51.867] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_grid.scss[22m
+    → [2013-04-13 17:19:51.873] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_media.scss[22m
+    → [2013-04-13 17:19:51.882] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_media.scss[22m
+    → [2013-04-13 17:19:51.884] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_media.scss[22m
+    → [2013-04-13 17:19:51.886] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_media.scss[22m
+    → [2013-04-13 17:19:51.892] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_omega.scss[22m
+    → [2013-04-13 17:19:51.901] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_omega.scss[22m
+    → [2013-04-13 17:19:51.904] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_omega.scss[22m
+    → [2013-04-13 17:19:51.906] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_omega.scss[22m
+    → [2013-04-13 17:19:51.911] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_outer-container.scss[22m
+    → [2013-04-13 17:19:51.921] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_outer-container.scss[22m
+    → [2013-04-13 17:19:51.923] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_outer-container.scss[22m
+    → [2013-04-13 17:19:51.925] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_outer-container.scss[22m
+    → [2013-04-13 17:19:51.931] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_pad.scss[22m
+    → [2013-04-13 17:19:51.941] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_pad.scss[22m
+    → [2013-04-13 17:19:51.943] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_pad.scss[22m
+    → [2013-04-13 17:19:51.945] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_pad.scss[22m
+    → [2013-04-13 17:19:51.952] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_row.scss[22m
+    → [2013-04-13 17:19:51.961] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_row.scss[22m
+    → [2013-04-13 17:19:51.964] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_row.scss[22m
+    → [2013-04-13 17:19:51.966] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_row.scss[22m
+    → [2013-04-13 17:19:51.972] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_shift.scss[22m
+    → [2013-04-13 17:19:51.981] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_shift.scss[22m
+    → [2013-04-13 17:19:51.983] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_shift.scss[22m
+    → [2013-04-13 17:19:51.985] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_shift.scss[22m
+    → [2013-04-13 17:19:51.991] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_span-columns.scss[22m
+    → [2013-04-13 17:19:52.001] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_span-columns.scss[22m
+    → [2013-04-13 17:19:52.004] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_span-columns.scss[22m
+    → [2013-04-13 17:19:52.007] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_span-columns.scss[22m
+    → [2013-04-13 17:19:52.013] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_to-deprecate.scss[22m
+    → [2013-04-13 17:19:52.022] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_to-deprecate.scss[22m
+    → [2013-04-13 17:19:52.024] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_to-deprecate.scss[22m
+    → [2013-04-13 17:19:52.026] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_to-deprecate.scss[22m
+    → [2013-04-13 17:19:52.033] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.042] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/grid/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.045] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.047] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.052] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_grid.scss[22m
+    → [2013-04-13 17:19:52.061] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/settings/_grid.scss[22m
+    → [2013-04-13 17:19:52.063] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_grid.scss[22m
+    → [2013-04-13 17:19:52.065] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_grid.scss[22m
+    → [2013-04-13 17:19:52.071] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.082] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded file: styles/neat/settings/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.085] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding document: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.087] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Adding stylesheet file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.092] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Loaded 72 files[22m
+    → [2013-04-13 17:19:52.101] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Parsed everything[22m
+    → [2013-04-13 17:19:52.103] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Contextualizing 73 files[22m
+    → [2013-04-13 17:19:52.105] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Contextualized 73 files[22m
+    → [2013-04-13 17:19:52.162] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering 73 files[22m
+    → [2013-04-13 17:19:52.164] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/atom.xml.eco[22m
+    → [2013-04-13 17:19:52.167] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/index.html.eco[22m
+    → [2013-04-13 17:19:52.169] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/site.rss.eco[22m
+    → [2013-04-13 17:19:52.171] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/articles/baconjs.html.md[22m
+    → [2013-04-13 17:19:52.173] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/atom.xml.eco[22m
+    → [2013-04-13 17:19:52.271] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:52.274] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/site.rss.eco[22m
+    → [2013-04-13 17:19:52.276] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:52.283] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:52.756] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/index.html.eco[22m
+    → [2013-04-13 17:19:52.759] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:52.762] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/articles/baconjs.html.md[22m
+    → [2013-04-13 17:19:52.764] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/atom.xml.eco[22m
+    → [2013-04-13 17:19:52.772] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/index.html.eco[22m
+    → [2013-04-13 17:19:52.774] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/site.rss.eco[22m
+    → [2013-04-13 17:19:52.776] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/reset.css.sass[22m
+    → [2013-04-13 17:19:52.778] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/style.css.sass[22m
+    → [2013-04-13 17:19:52.780] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon-deprecated-upcoming.scss[22m
+    → [2013-04-13 17:19:52.781] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat-helpers.scss[22m
+    → [2013-04-13 17:19:52.783] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_font-family.scss[22m
+    → [2013-04-13 17:19:52.785] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_hide-text.scss[22m
+    → [2013-04-13 17:19:52.787] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_html5-input-types.scss[22m
+    → [2013-04-13 17:19:52.789] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_retina-image.scss[22m
+    → [2013-04-13 17:19:52.790] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_timing-functions.scss[22m
+    → [2013-04-13 17:19:52.792] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-image.scss[22m
+    → [2013-04-13 17:19:52.797] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-size.scss[22m
+    → [2013-04-13 17:19:52.799] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-image.scss[22m
+    → [2013-04-13 17:19:52.801] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-radius.scss[22m
+    → [2013-04-13 17:19:52.803] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_box-sizing.scss[22m
+    → [2013-04-13 17:19:52.805] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_flex-box.scss[22m
+    → [2013-04-13 17:19:52.807] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_font-face.scss[22m
+    → [2013-04-13 17:19:52.809] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_hidpi-media-query.scss[22m
+    → [2013-04-13 17:19:52.811] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_image-rendering.scss[22m
+    → [2013-04-13 17:19:52.812] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_inline-block.scss[22m
+    → [2013-04-13 17:19:52.814] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:52.816] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:52.819] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_user-select.scss[22m
+    → [2013-04-13 17:19:52.821] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_deprecated-webkit-gradient.scss[22m
+    → [2013-04-13 17:19:52.823] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_flex-grid.scss[22m
+    → [2013-04-13 17:19:52.825] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_grid-width.scss[22m
+    → [2013-04-13 17:19:52.827] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:52.829] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_modular-scale.scss[22m
+    → [2013-04-13 17:19:52.831] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:52.833] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:52.835] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_render-gradients.scss[22m
+    → [2013-04-13 17:19:52.836] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_tint-shade.scss[22m
+    → [2013-04-13 17:19:52.838] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_transition-property-name.scss[22m
+    → [2013-04-13 17:19:52.840] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_new-breakpoint.scss[22m
+    → [2013-04-13 17:19:52.842] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:52.844] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_fill-parent.scss[22m
+    → [2013-04-13 17:19:52.846] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_global-variables.scss[22m
+    → [2013-04-13 17:19:52.848] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_outer-container.scss[22m
+    → [2013-04-13 17:19:52.850] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_span-columns.scss[22m
+    → [2013-04-13 17:19:52.852] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_to-deprecate.scss[22m
+    → [2013-04-13 17:19:52.854] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.855] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.857] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/_bourbon-deprecated-upcoming.scss[22m
+    → [2013-04-13 17:19:52.878] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/_neat-helpers.scss[22m
+    → [2013-04-13 17:19:52.881] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_font-family.scss[22m
+    → [2013-04-13 17:19:52.884] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_hide-text.scss[22m
+    → [2013-04-13 17:19:52.887] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_html5-input-types.scss[22m
+    → [2013-04-13 17:19:52.890] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_retina-image.scss[22m
+    → [2013-04-13 17:19:52.892] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/addons/_timing-functions.scss[22m
+    → [2013-04-13 17:19:52.895] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-image.scss[22m
+    → [2013-04-13 17:19:52.898] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_background-size.scss[22m
+    → [2013-04-13 17:19:52.901] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-image.scss[22m
+    → [2013-04-13 17:19:52.904] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_border-radius.scss[22m
+    → [2013-04-13 17:19:52.906] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_box-sizing.scss[22m
+    → [2013-04-13 17:19:52.909] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_flex-box.scss[22m
+    → [2013-04-13 17:19:52.911] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_font-face.scss[22m
+    → [2013-04-13 17:19:52.914] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_hidpi-media-query.scss[22m
+    → [2013-04-13 17:19:52.916] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_image-rendering.scss[22m
+    → [2013-04-13 17:19:52.919] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_inline-block.scss[22m
+    → [2013-04-13 17:19:52.921] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:52.924] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:52.927] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/css3/_user-select.scss[22m
+    → [2013-04-13 17:19:52.929] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_deprecated-webkit-gradient.scss[22m
+    → [2013-04-13 17:19:52.932] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_flex-grid.scss[22m
+    → [2013-04-13 17:19:52.935] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_grid-width.scss[22m
+    → [2013-04-13 17:19:52.939] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_linear-gradient.scss[22m
+    → [2013-04-13 17:19:52.943] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_modular-scale.scss[22m
+    → [2013-04-13 17:19:52.947] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:52.950] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_radial-gradient.scss[22m
+    → [2013-04-13 17:19:52.953] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_render-gradients.scss[22m
+    → [2013-04-13 17:19:52.957] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_tint-shade.scss[22m
+    → [2013-04-13 17:19:52.962] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/bourbon/functions/_transition-property-name.scss[22m
+    → [2013-04-13 17:19:52.966] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_new-breakpoint.scss[22m
+    → [2013-04-13 17:19:52.970] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/functions/_px-to-em.scss[22m
+    → [2013-04-13 17:19:52.973] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_fill-parent.scss[22m
+    → [2013-04-13 17:19:52.976] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_global-variables.scss[22m
+    → [2013-04-13 17:19:52.978] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_outer-container.scss[22m
+    → [2013-04-13 17:19:52.981] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_span-columns.scss[22m
+    → [2013-04-13 17:19:52.984] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_to-deprecate.scss[22m
+    → [2013-04-13 17:19:52.987] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/grid/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.990] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/neat/settings/_visual-grid.scss[22m
+    → [2013-04-13 17:19:52.992] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/atom.xml.eco[22m
+    → [2013-04-13 17:19:53.007] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering the file: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:53.012] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/site.rss.eco[22m
+    → [2013-04-13 17:19:53.014] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/layouts/default.html.hamlc[22m
+    → [2013-04-13 17:19:53.050] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/index.html.eco[22m
+    → [2013-04-13 17:19:53.055] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/reset.css.sass[22m
+    → [2013-04-13 17:19:53.337] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendering completed for: /Users/Nek/Projects/nek.github.com-sources/src/documents/styles/style.css.sass[22m
+    → [2013-04-13 17:19:53.946] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Rendered 73 files[22m
+    → [2013-04-13 17:19:53.949] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing 73 files[22m
+    → [2013-04-13 17:19:53.951] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/atom.xml utf8[22m
+    → [2013-04-13 17:19:53.959] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/index.html utf8[22m
+    → [2013-04-13 17:19:53.961] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/site.rss utf8[22m
+    → [2013-04-13 17:19:53.963] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/articles/baconjs.html utf8[22m
+    → [2013-04-13 17:19:53.965] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/reset.css utf8[22m
+    → [2013-04-13 17:19:53.968] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/style.css utf8[22m
+    → [2013-04-13 17:19:53.970] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/_bourbon-deprecated-upcoming.scss utf8[22m
+    → [2013-04-13 17:19:53.972] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/_neat-helpers.scss utf8[22m
+    → [2013-04-13 17:19:53.974] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_font-family.scss utf8[22m
+    → [2013-04-13 17:19:53.977] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_hide-text.scss utf8[22m
+    → [2013-04-13 17:19:53.979] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_html5-input-types.scss utf8[22m
+    → [2013-04-13 17:19:53.981] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_retina-image.scss utf8[22m
+    → [2013-04-13 17:19:53.984] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_timing-functions.scss utf8[22m
+    → [2013-04-13 17:19:53.986] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_background-image.scss utf8[22m
+    → [2013-04-13 17:19:53.988] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_background-size.scss utf8[22m
+    → [2013-04-13 17:19:53.990] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_border-image.scss utf8[22m
+    → [2013-04-13 17:19:53.992] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_border-radius.scss utf8[22m
+    → [2013-04-13 17:19:53.994] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_box-sizing.scss utf8[22m
+    → [2013-04-13 17:19:53.996] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_flex-box.scss utf8[22m
+    → [2013-04-13 17:19:53.998] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_font-face.scss utf8[22m
+    → [2013-04-13 17:19:54.000] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_hidpi-media-query.scss utf8[22m
+    → [2013-04-13 17:19:54.001] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_image-rendering.scss utf8[22m
+    → [2013-04-13 17:19:54.003] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_inline-block.scss utf8[22m
+    → [2013-04-13 17:19:54.006] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_linear-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.009] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_radial-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.011] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_user-select.scss utf8[22m
+    → [2013-04-13 17:19:54.013] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_deprecated-webkit-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.015] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_flex-grid.scss utf8[22m
+    → [2013-04-13 17:19:54.017] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_grid-width.scss utf8[22m
+    → [2013-04-13 17:19:54.019] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_linear-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.021] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_modular-scale.scss utf8[22m
+    → [2013-04-13 17:19:54.023] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_px-to-em.scss utf8[22m
+    → [2013-04-13 17:19:54.034] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_radial-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.036] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_render-gradients.scss utf8[22m
+    → [2013-04-13 17:19:54.038] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_tint-shade.scss utf8[22m
+    → [2013-04-13 17:19:54.040] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_transition-property-name.scss utf8[22m
+    → [2013-04-13 17:19:54.042] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/functions/_new-breakpoint.scss utf8[22m
+    → [2013-04-13 17:19:54.044] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/functions/_px-to-em.scss utf8[22m
+    → [2013-04-13 17:19:54.047] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_fill-parent.scss utf8[22m
+    → [2013-04-13 17:19:54.049] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_global-variables.scss utf8[22m
+    → [2013-04-13 17:19:54.051] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_outer-container.scss utf8[22m
+    → [2013-04-13 17:19:54.055] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_span-columns.scss utf8[22m
+    → [2013-04-13 17:19:54.059] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_to-deprecate.scss utf8[22m
+    → [2013-04-13 17:19:54.061] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_visual-grid.scss utf8[22m
+    → [2013-04-13 17:19:54.064] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Writing the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/settings/_visual-grid.scss utf8[22m
+    → [2013-04-13 17:19:54.066] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/atom.xml utf8[22m
+    → [2013-04-13 17:19:54.088] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/index.html utf8[22m
+    → [2013-04-13 17:19:54.093] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/site.rss utf8[22m
+    → [2013-04-13 17:19:54.096] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/articles/baconjs.html utf8[22m
+    → [2013-04-13 17:19:54.100] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/reset.css utf8[22m
+    → [2013-04-13 17:19:54.102] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/style.css utf8[22m
+    → [2013-04-13 17:19:54.106] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/_bourbon-deprecated-upcoming.scss utf8[22m
+    → [2013-04-13 17:19:54.109] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/_neat-helpers.scss utf8[22m
+    → [2013-04-13 17:19:54.111] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_font-family.scss utf8[22m
+    → [2013-04-13 17:19:54.114] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_hide-text.scss utf8[22m
+    → [2013-04-13 17:19:54.117] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_background-image.scss utf8[22m
+    → [2013-04-13 17:19:54.120] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_background-size.scss utf8[22m
+    → [2013-04-13 17:19:54.123] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_retina-image.scss utf8[22m
+    → [2013-04-13 17:19:54.125] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_timing-functions.scss utf8[22m
+    → [2013-04-13 17:19:54.129] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_box-sizing.scss utf8[22m
+    → [2013-04-13 17:19:54.131] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_border-image.scss utf8[22m
+    → [2013-04-13 17:19:54.134] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_flex-box.scss utf8[22m
+    → [2013-04-13 17:19:54.138] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_hidpi-media-query.scss utf8[22m
+    → [2013-04-13 17:19:54.141] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_inline-block.scss utf8[22m
+    → [2013-04-13 17:19:54.144] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_image-rendering.scss utf8[22m
+    → [2013-04-13 17:19:54.166] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_linear-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.168] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_radial-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.171] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_user-select.scss utf8[22m
+    → [2013-04-13 17:19:54.173] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_deprecated-webkit-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.175] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_flex-grid.scss utf8[22m
+    → [2013-04-13 17:19:54.177] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_grid-width.scss utf8[22m
+    → [2013-04-13 17:19:54.179] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_linear-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.182] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_modular-scale.scss utf8[22m
+    → [2013-04-13 17:19:54.184] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_border-radius.scss utf8[22m
+    → [2013-04-13 17:19:54.186] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_px-to-em.scss utf8[22m
+    → [2013-04-13 17:19:54.188] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_render-gradients.scss utf8[22m
+    → [2013-04-13 17:19:54.190] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_radial-gradient.scss utf8[22m
+    → [2013-04-13 17:19:54.192] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_transition-property-name.scss utf8[22m
+    → [2013-04-13 17:19:54.194] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/functions/_new-breakpoint.scss utf8[22m
+    → [2013-04-13 17:19:54.196] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/functions/_px-to-em.scss utf8[22m
+    → [2013-04-13 17:19:54.199] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_fill-parent.scss utf8[22m
+    → [2013-04-13 17:19:54.201] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_global-variables.scss utf8[22m
+    → [2013-04-13 17:19:54.203] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/css3/_font-face.scss utf8[22m
+    → [2013-04-13 17:19:54.204] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_outer-container.scss utf8[22m
+    → [2013-04-13 17:19:54.206] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/addons/_html5-input-types.scss utf8[22m
+    → [2013-04-13 17:19:54.207] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_to-deprecate.scss utf8[22m
+    → [2013-04-13 17:19:54.209] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_visual-grid.scss utf8[22m
+    → [2013-04-13 17:19:54.210] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/settings/_visual-grid.scss utf8[22m
+    → [2013-04-13 17:19:54.212] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/neat/grid/_span-columns.scss utf8[22m
+    → [2013-04-13 17:19:54.214] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote the rendered document: /Users/Nek/Projects/nek.github.com-sources/out/styles/bourbon/functions/_tint-shade.scss utf8[22m
+    → [2013-04-13 17:19:54.215] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Wrote 73 files[22m
+    → [2013-04-13 17:19:54.217] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32minfo:[39m Generated all 73 files in 4.399 seconds[22m
+    → [2013-04-13 17:19:54.220] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32mdebug:[39m Performed the action generate[22m
+    → [2013-04-13 17:19:54.224] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
+[1m[32minfo:[39m The action completed successfully[22m
+    → [2013-04-13 17:19:54.228] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1579] [DocPad.log]
